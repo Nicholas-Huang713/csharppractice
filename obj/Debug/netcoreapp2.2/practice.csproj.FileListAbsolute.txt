@@ -1,0 +1,11 @@
+/Users/nickhuang/Documents/c_sharp/practice/bin/Debug/netcoreapp2.2/practice.deps.json
+/Users/nickhuang/Documents/c_sharp/practice/bin/Debug/netcoreapp2.2/practice.runtimeconfig.json
+/Users/nickhuang/Documents/c_sharp/practice/bin/Debug/netcoreapp2.2/practice.runtimeconfig.dev.json
+/Users/nickhuang/Documents/c_sharp/practice/bin/Debug/netcoreapp2.2/practice.dll
+/Users/nickhuang/Documents/c_sharp/practice/bin/Debug/netcoreapp2.2/practice.pdb
+/Users/nickhuang/Documents/c_sharp/practice/obj/Debug/netcoreapp2.2/practice.csprojAssemblyReference.cache
+/Users/nickhuang/Documents/c_sharp/practice/obj/Debug/netcoreapp2.2/practice.csproj.CoreCompileInputs.cache
+/Users/nickhuang/Documents/c_sharp/practice/obj/Debug/netcoreapp2.2/practice.AssemblyInfoInputs.cache
+/Users/nickhuang/Documents/c_sharp/practice/obj/Debug/netcoreapp2.2/practice.AssemblyInfo.cs
+/Users/nickhuang/Documents/c_sharp/practice/obj/Debug/netcoreapp2.2/practice.dll
+/Users/nickhuang/Documents/c_sharp/practice/obj/Debug/netcoreapp2.2/practice.pdb
